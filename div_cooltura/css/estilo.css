@@ -1,0 +1,138 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	height: 70px;
+	width: 100%;
+	background: red;
+	position: fixed;
+	float: left;
+}
+header #logo{
+	background:yellow;
+	width: 20%;
+	height: 50px;
+	float: left;
+	margin: 10px;
+
+}
+#divleft{
+	background: gray;
+	border-radius:15px;
+	width: 35%;
+	height: 400px;
+	margin-left: 20px;
+	margin-top: 90px;
+	position:fixed;
+	float: left;
+}
+#infoperfil{
+	background:blue;
+	height:45%;
+	margin-top:5%;
+}
+#fotoperfil{
+	background:aliceblue;
+	height:70%;
+	width: 30%;
+	margin-top:5%;
+	margin-left: 10%;
+	float: left;
+}
+#adicional{
+	background:purple;
+	height:45%;
+	margin-bottom:5%;
+}
+#publicar{
+	background: gray;
+	border-radius:15px;
+	width: 55%;
+	height: 250px;
+	margin-left: 39%;
+	margin-top: 90px;
+	float: left;
+}
+#adorno{
+	background:blue;
+	height:60px;
+	border-radius:10px;
+}
+#posteado{
+	background: gray;
+	border-radius:15px;
+	width: 55%;
+	height: 500px;
+	margin-left: 39%;
+	margin-top: 30px;
+	float: left;
+}
+#postperfil{
+	background:green;
+	height: 50px;
+	width: 50px;
+	margin:10px;
+	border-radius: 100%;
+	float: left;
+}
+#descripcion{
+	background:green;
+	height: 50px;
+	width: 80%;
+	margin: 10px;
+	float: left;
+}
+#foto{
+	background:aliceblue;
+	height: 60%;
+	width: 80%;
+	margin:10%;
+	margin-top:5%;
+	margin-bottom:3%;
+	float: left;
+}
+#reacciones{
+	background:orange;
+	height: 10%;
+	width: 20%;
+	margin:10%;
+	margin-top:1%;
+	float: left;
+
+}
+#base{
+	background:darkblue;
+	width:40%;
+	height: 700px;
+	margin-top:50px;
+	margin-left: 30%;
+	
+}
+#formulario{
+	background:aliceblue;
+	float:left;
+	width:70%;
+	height: 60%;
+	margin-top: 35%;
+	margin-left: 15%;
+	border-radius: 20px;
+	
+}
+#infouser{
+	background:grey;
+	height:300px;
+	width: 30%;
+	margin-top:90px;
+	margin-left: 38%;
+	float: left;
+	
+}
+#cambios{
+	background:grey;
+	height:300px;
+	width: 60%;
+	margin-top:20px;
+	margin-left: 38%;
+	float: left;
+}
